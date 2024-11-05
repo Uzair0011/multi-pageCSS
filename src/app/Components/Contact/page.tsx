@@ -11,9 +11,9 @@ export default function Contact() {
                   <b>Cyber</b>
                 </h2>
                 <p className="downText">
-                  Street: 4073 Red Maple Drive City: Irvine State/province/area:
-                  California Phone number: 323-350-1930 Zip code: 92614 Country
-                  calling code: +1 Country: United States
+                  Street: 4073 Red Maple Drive City: Irvine State/Province/Area:
+                  California Phone Number: (323) 350-1930 Zip Code: 92614
+                  Country Calling Code: +1 Country: United States
                 </p>
               </div>
             </div>

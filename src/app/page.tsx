@@ -1,4 +1,4 @@
-import Main from "./Components/Main/main";
+import Main from "./Components/Main1/main";
 import MacPage from "./Components/MacPage/page";
 import Category from "./Components/Category/page";
 import New from "./Components/New/page";
@@ -9,13 +9,13 @@ import Sale from "./Components/Sale/page";
 export default function Home() {
   return (
     <div>
-      <Main />
+      {/* <Main />
       <MacPage />
       <Category />
       <New />
-      <Four />
+      <Four /> */}
       <New2 />
-      <Sale />
+      {/* <Sale /> */}
     </div>
   );
 }

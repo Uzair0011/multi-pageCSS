@@ -53,7 +53,6 @@ export default function Footer() {
         <div className="fourIcon">
           <div className="fourlogo">
             <div>
-          
               <Image src="/twitter.png" alt="logo" width={25} height={25} />
             </div>
             <div>
@@ -63,7 +62,6 @@ export default function Footer() {
               <Image src="/tiktok.png" alt="logo" width={25} height={25} />
             </div>
             <div>
-            
               <Image src="/insta.png" alt="logo" width={25} height={25} />
             </div>
           </div>

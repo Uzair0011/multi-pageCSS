@@ -9,13 +9,13 @@ import Sale from "./Components/Sale/page";
 export default function Home() {
   return (
     <div>
-      {/* <Main />
+      <Main />
       <MacPage />
       <Category />
       <New />
-      <Four /> */}
+      <Four />
       <New2 />
-      {/* <Sale /> */}
+      <Sale />
     </div>
   );
 }
